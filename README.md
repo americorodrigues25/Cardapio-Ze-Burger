@@ -35,9 +35,6 @@ Realizei este projeto com o intuito de aprender sobre <mark><b>TailwindCSS</mark
 
 ![Captura de tela_4-7-2024_194522_127 0 0 1](https://github.com/americorodrigues25/Cardapio-Ze-Burger/assets/152452192/0beb28d7-1e7a-4dee-be9b-7ae72b8fd2a4)
 
-#### Video de demonstração: 📹
-
-
 ### Contatos: 📲
 <div>
   <a href="https://wa.me/+5511964166962?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -46,3 +43,4 @@ Realizei este projeto com o intuito de aprender sobre <mark><b>TailwindCSS</mark
 </div>
 
 ##### Acesse pela URL: 
+https://cardapio-ze-burger.vercel.app/
